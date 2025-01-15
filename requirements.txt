@@ -1,5 +1,5 @@
  streamlit 
  yfinance
  pandas 
-plotly.graph_objects 
-numpy 
+ plotly.graph_objects 
+ numpy 
